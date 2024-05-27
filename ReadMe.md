@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un desarrollador de software loco por el deporte 😵<br>He estado trabajando en el sector de las finanzas.<br>Actualmente cursando un Bootcamp en Reus 🥊
+Soy un desarrollador de software loco por el deporte 😵<br>He estado trabajando en el sector de las finanzas 📊<br>Actualmente cursando un Bootcamp en Reus (●'◡'●)<br>Me encanta correr, la bicicleta, nadar y en tiempos libres boxeo 🥊
 
 
 ## 🌐 Socials:
@@ -15,10 +15,8 @@ Soy un desarrollador de software loco por el deporte 😵<br>He estado trabajand
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danipoal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danipoal&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Ok...
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
