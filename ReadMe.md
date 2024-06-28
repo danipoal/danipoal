@@ -11,8 +11,8 @@ Soy un desarrollador de software loco por el deporte 😵<br>He estado trabajand
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danipoal&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 😂 Ok...
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### Dejo un meme de typescript por aqui ༼ つ ◕_◕ ༽つ
+<img src='https://media.licdn.com/dms/image/D4E22AQExiL0A-ULLcQ/feedshare-shrink_800/0/1695165146695?e=2147483647&v=beta&t=G6YhpxtldvWCtMTs9-hYfpp-ant7C2vNAv-49njzj5U' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danipoal&icon=0&color=0)](https://visitcount.itsvg.in)
