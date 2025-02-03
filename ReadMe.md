@@ -14,13 +14,14 @@
 ## Web development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| [ConectaCampo.es](http://conectacampo.es) |01/05/2024 - 01/09/2024| Conecta Campo es una aplicación web diseñada para conectar directamente a los agricultores con los clientes finales, permitiendo la venta directa de productos agrícolas y la opción de donar excedentes a bancos de alimentos. [Repo GitHub](https://github.com/cnievaslozano/ConectaCampo)|
-| BookSource |01/09/2024 - 01/01/2025| Plataforma web diseñada para guardar los libros que te interesan, hayas leido o quieras leer en tus listas personales para no olvidarte. Tambien funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo GitHub](https://github.com/Tihersarc/book-source)|
+| [ConectaCampo.es](http://conectacampo.es) |01/05/2024 - 01/09/2024| Conecta Campo es una aplicación web diseñada para conectar directamente a los agricultores con los clientes finales, permitiendo la venta directa de productos agrícolas y la opción de donar excedentes a bancos de alimentos. [Repo](https://github.com/cnievaslozano/ConectaCampo)|
+| BookSource |01/09/2024 - 01/01/2025| Plataforma web diseñada para guardar los libros que te interesan, hayas leido o quieras leer en tus listas personales para no olvidarte. Tambien funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo](https://github.com/Tihersarc/book-source)|
 
 ## List of projects in С/C++
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| Libft | 17/12/24 - 03/02/25 | Replication of LibC, the standard ANSI library used in C language. Basic and no that basic memory, string and list struct functions. It is the first project for 42 Software Engeneering school. [GitHub Repo](https://github.com/danipoal/Libft). |
+| Libft | 17/12/24 - 03/02/25 | Replication of LibC, the standard ANSI library used in C language. Basic and no that basic memory, string and list struct functions. It is the first project for 42 Software Engeneering school. [Repo](https://github.com/danipoal/Libft). |
+| Printf | 03/02/24 - Actual | Replication of printf fuction. Managing all conversions and handling variadic arguments only done by the functions prevously done in libft. [Repo](https://github.com/danipoal/Printf). |
 
 ## Certificates
 - [Azure Fundamentals: AZ-900](https://www.credly.com/badges/5d200f84-d39c-41c5-91e0-157e4e190fd1)
