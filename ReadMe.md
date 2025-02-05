@@ -12,10 +12,12 @@
   </p>
 
 ## Web development projects
-| Project name | Development period | Description |
-|:------------:|:------------------:|:-----------:|
-| [ConectaCampo.es](http://conectacampo.es) |01/05/2024 - 01/09/2024| Conecta Campo es una aplicación web diseñada para conectar directamente a los agricultores con los clientes finales, permitiendo la venta directa de productos agrícolas y la opción de donar excedentes a bancos de alimentos. [Repo](https://github.com/cnievaslozano/ConectaCampo)|
-| BookSource |01/09/2024 - 01/01/2025| Plataforma web diseñada para guardar los libros que te interesan, hayas leido o quieras leer en tus listas personales para no olvidarte. Tambien funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo](https://github.com/Tihersarc/book-source)|
+
+| Project name | Tech Stack | Dev year | Description |
+|-------------|------------|----------|-------------|
+| [ConectaCampo.es](http://conectacampo.es) | <img src="https://danipoal.com/js/svgs/javascript.svg" width="40"> | 01/05/2024 - 01/09/2024 | Conecta Campo es una aplicación web diseñada para conectar directamente a los agricultores con los clientes finales, permitiendo la venta directa de productos agrícolas y la opción de donar excedentes a bancos de alimentos. [Repo](https://github.com/cnievaslozano/ConectaCampo) |
+| **BookSource** | *(Pendiente)* | 01/09/2024 - 01/01/2025 | Plataforma web diseñada para guardar los libros que te interesan, hayas leído o quieras leer en tus listas personales para no olvidarte. También funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo](https://github.com/Tihersarc/book-source) |
+
 
 ## List of projects in С/C++
 | Project name | Development period | Description |
