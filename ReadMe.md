@@ -24,6 +24,8 @@
 |:------------:|:------------------:|:-----------:|
 | Libft | 12/24 - 02/25 | Replication of LibC, the standard ANSI library used in C language. Basic and no that basic memory, string and list struct functions. It is the first project for 42 Software Engeneering school. [Repo](https://github.com/danipoal/Libft). |
 | Printf | 02/24 - Actual | Replication of printf fuction. Managing all conversions and handling variadic arguments only done by the functions prevously done in libft. [Repo](https://github.com/danipoal/Printf). |
+| GNL | 02/24 - Actual | A function in C that reads a file descriptor and reads a buffer_size until a \n or \0 is founded. Used in a loop, remembers the last position of the buffer readed. [Repo](https://github.com/danipoal/GNL). |
+
 
 ## Certificates 
 - [Azure Fundamentals: AZ-900](https://www.credly.com/badges/5d200f84-d39c-41c5-91e0-157e4e190fd1)
