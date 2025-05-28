@@ -26,7 +26,7 @@
 | Libft | 12/24 - 02/25 | Replication of LibC, the standard ANSI library used in C language. Basic and no that basic memory, string and list struct functions. It is the first project for 42 Software Engeneering school. [Repo](https://github.com/danipoal/Libft). |
 | Printf | 01/25 - 03/25 | Replication of printf fuction. Managing all conversions and handling variadic arguments only done by the functions prevously done in libft. [Repo](https://github.com/danipoal/Printf). |
 | GNL | 02/24 - 04/25 | A function in C that reads a file descriptor and reads a buffer_size until a \n or \0 is founded. Used in a loop, remembers the last position of the buffer readed. [Repo](https://github.com/danipoal/GNL). |
-| Push Swap | 03/24 - Actual | Algorythm that orders a stack of values given. Must be as fast as the premises given by the project. [Repo](https://github.com/danipoal/push-swap). |
+| Push Swap | 03/24 - Actual | Algorythm that orders a stack of values given. Must be as fast as the premises given by the project. [Repo](https://github.com/danipoal/push_swap). |
 
 
 
