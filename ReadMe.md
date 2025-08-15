@@ -16,7 +16,7 @@
 | Project name | Tech Stack | Dev year | Description |
 |-------------|-------|----------|-------------|
 | **[Conecta Campo](https://campo.danipoal.com)** | <div> <img src="https://danipoal.com/js/svgs/react-icon.svg" width="55"> <img src="https://danipoal.com/js/svgs/spring.svg" width="55">  </div>| 2024 | Conecta Campo es una aplicación web diseñada para conectar directamente a los agricultores con los clientes finales, permitiendo la venta directa de productos agrícolas y la opción de donar excedentes a bancos de alimentos. [Repo](https://github.com/cnievaslozano/ConectaCampo) |
-| **[Book Source.es](https://book.danipoal.com)** |<img src="https://danipoal.com/js/svgs/csharp.svg" width="60"> <img src="https://danipoal/js/svgs/asp.svg" width="60"> | 2024/25 | Plataforma web diseñada para guardar los libros que te interesan, hayas leído o quieras leer en tus listas personales para no olvidarte. También funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo](https://github.com/Tihersarc/book-source) |
+| **[Book Source](https://book.danipoal.com)** |<img src="https://danipoal.com/js/svgs/csharp.svg" width="60"> <img src="https://danipoal/js/svgs/asp.svg" width="60"> | 2024/25 | Plataforma web diseñada para guardar los libros que te interesan, hayas leído o quieras leer en tus listas personales para no olvidarte. También funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo](https://github.com/Tihersarc/book-source) |
 | **Ticket Stdio** | | 2025 | Aplicación movil destinada a gestionar gastos y facturas de empresas en viajes de negocios, congresos, y momentos away from work. [Repo](https://github.com/Stdio-Lab/ticket-stdio) |
 
 
@@ -25,8 +25,9 @@
 |:------------:|:------------------:|:-----------:|
 | Libft | 12/24 - 02/25 | Replication of LibC, the standard ANSI library used in C language. Basic and no that basic memory, string and list struct functions. It is the first project for 42 Software Engeneering school. [Repo](https://github.com/danipoal/Libft). |
 | Printf | 01/25 - 03/25 | Replication of printf fuction. Managing all conversions and handling variadic arguments only done by the functions prevously done in libft. [Repo](https://github.com/danipoal/Printf). |
-| GNL | 02/24 - 04/25 | A function in C that reads a file descriptor and reads a buffer_size until a \n or \0 is founded. Used in a loop, remembers the last position of the buffer readed. [Repo](https://github.com/danipoal/GNL). |
-| Push Swap | 03/24 - Actual | Algorythm that orders a stack of values given. Must be as fast as the premises given by the project. [Repo](https://github.com/danipoal/push_swap). |
+| GNL | 02/25 - 04/25 | A function in C that reads a file descriptor and reads a buffer_size until a \n or \0 is founded. Used in a loop, remembers the last position of the buffer readed. [Repo](https://github.com/danipoal/GNL). |
+| Push Swap | 03/25 - 06/25 | Algorythm that orders a stack of values given. Must be as fast as the premises given by the project. [Repo](https://github.com/danipoal/push_swap). |
+| So Long | 07/25 - Actual | Algorythm that orders a stack of values given. Must be as fast as the premises given by the project. [Repo](https://github.com/danipoal/so_long). |
 
 
 
