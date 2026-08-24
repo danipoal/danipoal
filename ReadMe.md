@@ -7,17 +7,13 @@
   <a href="https://danipoal.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
   <a href="https://linkedin.com/in/danipoal" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danipoal&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats">
-  </p>
-
 ## Web development projects
 
 | Project name | Tech Stack | Dev year | Description |
 |-------------|-------|----------|-------------|
-| **[Conecta Campo](https://campo.danipoal.com)** | <div> <img src="https://danipoal.com/js/svgs/react-icon.svg" width="55"> <img src="https://danipoal.com/js/svgs/spring.svg" width="55">  </div>| 2024 | Conecta Campo es una aplicación web diseñada para conectar directamente a los agricultores con los clientes finales, permitiendo la venta directa de productos agrícolas y la opción de donar excedentes a bancos de alimentos. [Repo](https://github.com/cnievaslozano/ConectaCampo) |
-| **[Book Source](https://book.danipoal.com)** |<img src="https://danipoal.com/js/svgs/csharp.svg" width="60"> <img src="https://danipoal/js/svgs/asp.svg" width="60"> | 2024/25 | Plataforma web diseñada para guardar los libros que te interesan, hayas leído o quieras leer en tus listas personales para no olvidarte. También funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo](https://github.com/Tihersarc/book-source) |
-| **Ticket Stdio** | | 2025 | Aplicación movil destinada a gestionar gastos y facturas de empresas en viajes de negocios, congresos, y momentos away from work. [Repo](https://github.com/Stdio-Lab/ticket-stdio) |
+| **[Conecta Campo](https://campo.danipoal.com)** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> | 2024 | Conecta Campo es una aplicación web diseñada para conectar directamente a los agricultores con los clientes finales, permitiendo la venta directa de productos agrícolas y la opción de donar excedentes a bancos de alimentos. [Repo](https://github.com/cnievaslozano/ConectaCampo) |
+| **[Book Source](https://book.danipoal.com)** | <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"> | 2024/25 | Plataforma web diseñada para guardar los libros que te interesan, hayas leído o quieras leer en tus listas personales para no olvidarte. También funciona como pequeña red social literaria en la que puedes recomendar los mismos que te gusten o puntuarlos. [Repo](https://github.com/Tihersarc/book-source) |
+| **Ticket Stdio** | <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> | 2026 | Aplicación movil destinada a gestionar gastos y facturas de empresas en viajes de negocios, congresos, y momentos away from work. [Repo](https://github.com/Stdio-Lab/ticket-stdio) |
 
 
 ## List of projects in С/C++
